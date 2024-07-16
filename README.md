@@ -13,7 +13,4 @@ I'm a passionate web developer constantly learning and exploring new technologie
   - [LinkedIn](https://www.linkedin.com/in/aayush-goyal00) 💼
   - [Twitter](https://twitter.com/AayushG90661528) 🐦
     
-- 😄 **Pronouns:** He/Him
-
-
 Feel free to check out my repositories and get in touch if you’d like to collaborate. Let's build something amazing together!
