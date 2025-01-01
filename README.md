@@ -11,7 +11,8 @@ Continuously exploring new technologies in the MERN stack and blockchain develop
 - **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), Firebase  
 - **Blockchain**: Solidity, IPFS
 
-  ##💞️ **Collaboration:** I’m looking to collaborate on exciting web development and blockchain projects. If you have an idea or a project in mind, let's connect!
+## 💞️ **Collaboration:**
+I’m looking to collaborate on exciting web development and blockchain projects. If you have an idea or a project in mind, let's connect!
   
 ## 📫 **Reach Me At:**
   - [Instagram](https://www.instagram.com/aayushgoyal01) 📸
