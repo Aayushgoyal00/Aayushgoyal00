@@ -4,13 +4,18 @@ I'm a passionate web developer constantly learning and exploring new technologie
 
 - 👀 **Interests:** I’m interested in web development and Web3.
 
-- 🌱 **Current Learning:** I’m currently diving deep into Backend Development . I’ve learned HTML, CSS, Tailwind CSS, JavaScript and React, and I'm  expanding my knowledge in the field of Web3 by learning about the solidity language.
+## 🌱 **Current Learning**
+Continuously exploring new technologies in the MERN stack and blockchain development.
 
-- 💞️ **Collaboration:** I’m looking to collaborate on exciting web development and blockchain projects. If you have an idea or a project in mind, let's connect!
+## 🔧 **Skills**  
+- **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), Firebase  
+- **Blockchain**: Solidity, IPFS
+
+  ##💞️ **Collaboration:** I’m looking to collaborate on exciting web development and blockchain projects. If you have an idea or a project in mind, let's connect!
   
-- 📫 **Reach Me At:**
+## 📫 **Reach Me At:**
   - [Instagram](https://www.instagram.com/aayushgoyal01) 📸
   - [LinkedIn](https://www.linkedin.com/in/aayush-goyal00) 💼
-  - [Twitter](https://twitter.com/AayushG90661528) 🐦
+  - [Twitter](https://x.com/AayushGoyal00) 🐦
     
 Feel free to check out my repositories and get in touch if you’d like to collaborate. Let's build something amazing together!
