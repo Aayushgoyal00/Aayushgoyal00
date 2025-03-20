@@ -1,22 +1,36 @@
-### Hi there! 👋 I'm Aayush Goyal
+# Hi there! 👋 I'm Aayush Goyal  
 
-I'm a passionate web developer constantly learning and exploring new technologies. Here’s a bit about me:
+I'm a passionate web developer constantly learning and exploring new technologies. Here’s a bit about me:  
 
-- 👀 **Interests:** I’m interested in web development and Web3.
+---
 
-## 🌱 **Current Learning**
-Continuously exploring new technologies in the MERN stack and blockchain development.
+## 👀 **Interests**  
+I’m deeply interested in web development and Web3, always seeking to build innovative projects that make an impact.  
+
+---
 
 ## 🔧 **Skills**  
-- **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), Firebase  
-- **Blockchain**: Solidity, IPFS
 
-## 💞️ **Collaboration:**
-I’m looking to collaborate on exciting web development and blockchain projects. If you have an idea or a project in mind, let's connect!
-  
-## 📫 **Reach Me At:**
-  - [Instagram](https://www.instagram.com/aayushgoyal01) 📸
-  - [LinkedIn](https://www.linkedin.com/in/aayush-goyal00) 💼
-  - [Twitter](https://x.com/AayushGoyal00) 🐦
-    
-Feel free to check out my repositories and get in touch if you’d like to collaborate. Let's build something amazing together!
+### 🚀 **Web Development:**  
+- **Frontend:** React, Next.js  
+- **Backend:** Node.js (Express), Django (RESTful APIs)  
+- **Databases:** MongoDB, PostgreSQL  
+- **Caching:** Redis  
+
+### 🔗 **Blockchain:**  
+- **Smart Contracts:** Solidity  
+- **Decentralized Storage:** IPFS  
+
+---
+
+## 💼 **Experience**  
+Currently working at a startup, where I’m building scalable frontend in Next.js, backend systems using Django, integrating REST APIs, and optimizing performance with Redis caching.  
+
+---
+
+## 💞️ **Collaboration:**  
+I’m open to collaborating on exciting web development and blockchain projects — especially those pushing boundaries in Web3 and backend infrastructure. If you have an idea, let’s connect!  
+
+---
+
+Feel free to explore my repositories and get in touch. Let’s build something amazing together! 🚀  
