@@ -28,7 +28,7 @@ Currently working at a startup, where I’m building scalable frontend in Next.j
 
 ---
 
-## 💞️ **Collaboration:**  
+## 🤝 **Collaboration:**  
 I’m open to collaborating on exciting web development and blockchain projects — especially those pushing boundaries in Web3 and backend infrastructure. If you have an idea, let’s connect!  
 
 ---
