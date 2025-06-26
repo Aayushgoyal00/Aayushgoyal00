@@ -39,7 +39,7 @@ I'm a Web developer and AI enthusiast building impactful projects. My interests 
 - Developing a platform to process YouTube video transcripts using AI-driven chat systems. Currently exploring hybrid RAG approaches (traditional + GraphRAG) to handle large datasets, like 10-hour video transcripts chunked into multiple segments, enhancing context retrieval with knowledge graphs.
 ## 📚 **Education**  
 ### Dhirubhai Ambani University  
-- Pursuing a degree in Mathematics & Computing.
+- Pursuing a B-Tech degree in Mathematics & Computing.
 ---
 
 Feel free to explore my repositories and get in touch. Let’s build something amazing together! 🚀  
