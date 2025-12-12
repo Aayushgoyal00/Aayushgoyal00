@@ -1,10 +1,30 @@
-## 💼 **Experience**  
-### **Full Stack Developer at Roommit**
-- Build a Roommate-matching platform with scalable frontend (Next.js, TypeScript) and backend (Django, REST APIs). Optimized performance with Redis caching and reduced API latency 
-### **Past Projects**
-- Built a decentralized cloud storage system leveraging IPFS and Solidity.
-- Created an online IDE for collaborative coding, integrating real-time features.
-- Tried developing a platform to process YouTube video transcripts using AI-driven chat systems. Exploring hybrid RAG approaches (traditional + GraphRAG) to handle large datasets, like multiple video transcripts chunked into multiple segments, enhancing context retrieval with knowledge graphs.
+# 💼 Experience
+
+**Full Stack Developer — Roommit**  
+Built a roommate-matching platform with a scalable Next.js + TypeScript frontend and Django REST backend; optimized performance using Redis caching.
+
 ---
 
-Feel free to explore my repositories and get in touch. Let’s build something amazing together! 🚀  
+# 🔥 Currently Focusing On
+
+**Exploring Compound V3**  
+Studying Comet architecture, liquidation mechanics, and protocol design.
+
+---
+
+# 🔗 Past Projects
+
+**Decentralized Cloud Storage System**  
+A blockchain-based storage system using Solidity and IPFS with encrypted file access.
+
+**Hyperliquid Perps Trading Dashboard**  
+A perps trading interface built using Hyperliquid’s APIs, Privy embedded wallets, and research into HyperEVM + HyperCore.
+
+**x402 Micropayments URL Shortener**  
+A decentralized URL shortener using x402 micropayments and Base Sepolia.
+
+**TranscriptInsight**  
+An AI system for processing large YouTube transcripts using hybrid RAG and GraphRAG techniques.
+
+**Collaborative Online IDE**  
+A real-time coding IDE for multiple users with shared editing functionality.
