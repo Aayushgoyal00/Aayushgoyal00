@@ -4,13 +4,8 @@ If my GitHub isn’t green, I’m either:
 - getting cooked by EXAMS. 🤯 🤯
 
 Progress is happening --- just not always in commits   .............
-# 💼 Experience
-
-**Full Stack Developer - Roommit**  
-Built a roommate-matching platform with a scalable Next.js + TypeScript frontend and Django REST backend; optimized performance using Redis caching.
 
 ---
-
 # 🔥 Currently Focusing On
 
 **Exploring Compound V3**  
@@ -34,3 +29,7 @@ An AI system for processing large YouTube transcripts using hybrid RAG and Graph
 
 **Collaborative Online IDE**  
 A real-time coding IDE for multiple users with shared editing functionality.
+
+**Roommit**  
+Built a roommate-matching platform with a scalable Next.js + TypeScript frontend and Django REST backend; optimized performance using Redis caching.
+
