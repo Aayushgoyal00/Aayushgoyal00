@@ -1,3 +1,9 @@
+# 🟩 About the Green Squares
+If my GitHub isn’t green, I’m either:
+- understanding something new, or
+- getting cooked by EXAMS. 🤯 🤯
+
+Progress is happening — just not always in commits   .............
 # 💼 Experience
 
 **Full Stack Developer — Roommit**  
