@@ -1,19 +1,19 @@
-# 🟩 About the Green Squares
+# About the Green Squares
 If my GitHub isn’t green, I’m either:
 - understanding something new, or
-- getting cooked by EXAMS. 🤯 🤯
+- getting cooked by EXAMS. 🤯 
 
 Progress is happening --- just not always in commits   .............
 
 ---
-# 🔥 Currently Focusing On
+# Currently Focusing On
 
 **Exploring Compound V3**  
 Studying Comet architecture, liquidation mechanics, and protocol design.
 
 ---
 
-# 🔗 Past Projects
+# Past Projects
 
 **Decentralized Cloud Storage System**  
 A blockchain-based storage system using Solidity and IPFS with encrypted file access.
