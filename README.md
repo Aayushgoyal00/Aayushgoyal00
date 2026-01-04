@@ -1,35 +1,27 @@
 # About the Green Squares
+
 If my GitHub isn’t green, I’m either:
 - understanding something new, or
-- getting cooked by EXAMS. 🤯 
+- getting cooked by **EXAMS** 🤯  
 
-Progress is happening --- just not always in commits   .............
-
----
-# Currently Focusing On
-
-**Exploring Compound V3**  
-Studying Comet architecture, liquidation mechanics, and protocol design.
+Progress is happening — just not always in commits.
 
 ---
 
-# Past Projects
+## Featured Work
 
-**Decentralized Cloud Storage System**  
-A blockchain-based storage system using Solidity and IPFS with encrypted file access.
+| Area | Project | What I Built & Explored |
+|------|--------|--------------------------|
+| **DeFi** | **Compound V3 (Comet)**<br/>*Lending Protocol Reimplementation* | • Rebuilt Comet to understand protocol architecture and design tradeoffs<br/>• Implemented interest rate math, utilization curves, and liquidation logic<br/>• Focused on gas-efficient on-chain state management |
+| **Blockchain Infra** | **Decentralized Cloud Storage System** | • Solidity + IPFS based storage with encrypted files<br/>• On-chain access control using ownership and permissions<br/>• Secure, trust-minimized file sharing |
+| **Trading Systems** | **Hyperliquid Perps Trading Dashboard** | • Built a perps trading UI using Hyperliquid APIs<br/>• Integrated Privy embedded wallets<br/>• Explored HyperEVM + HyperCore architecture |
+| **Payments** | **x402 Micropayments URL Shortener** | • Pay-per-use decentralized URL shortener<br/>• Implemented x402 micropayment flow<br/>• Deployed on Base Sepolia |
+| **AI Systems** | **TranscriptInsight** | • Processed large YouTube transcripts using RAG<br/>• Combined GraphRAG for structured knowledge retrieval<br/>• Optimized long-context semantic querying |
+| **Realtime Systems** | **Collaborative Online IDE** | • Real-time multi-user code editor<br/>• Shared editing with live synchronization<br/>• Designed for low-latency collaboration |
+| **Web Platforms** | **Roommit** | • Roommate-matching platform with scalable design<br/>• Next.js + TypeScript frontend<br/>• Django REST backend with Redis caching |
 
-**Hyperliquid Perps Trading Dashboard**  
-A perps trading interface built using Hyperliquid’s APIs, Privy embedded wallets, and research into HyperEVM + HyperCore.
+---
 
-**x402 Micropayments URL Shortener**  
-A decentralized URL shortener using x402 micropayments and Base Sepolia.
+## Interests
 
-**TranscriptInsight**  
-An AI system for processing large YouTube transcripts using hybrid RAG and GraphRAG techniques.
-
-**Collaborative Online IDE**  
-A real-time coding IDE for multiple users with shared editing functionality.
-
-**Roommit**  
-Built a roommate-matching platform with a scalable Next.js + TypeScript frontend and Django REST backend; optimized performance using Redis caching.
-
+DeFi Protocol Design • Blockchain Infrastructure • Solidity • Backend & Systems Engineering
