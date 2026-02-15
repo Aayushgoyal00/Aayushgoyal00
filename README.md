@@ -24,4 +24,4 @@ Progress is happening — just not always in commits.
 
 ## Interests
 
-DeFi Protocol Design • Blockchain Infrastructure • Solidity • Backend & Systems Engineering
+DeFi Protocol Design • Blockchain Infrastructure • Backend & Systems Engineering
