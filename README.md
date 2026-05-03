@@ -1,13 +1,3 @@
-# About the Green Squares
-
-If my GitHub isn’t green, I’m either:
-- understanding something new, or
-- getting cooked by **EXAMS** 🤯  
-
-Progress is happening — just not always in commits.
-
----
-
 ## Featured Work
 
 | Area | Project | What I Built & Explored |
